@@ -1,0 +1,2 @@
+$ ssh nl # login to CAEN as nlavaee at login.engin.umich.edu
+$ git clone gitlab:nlavaee/vimconfig.git
